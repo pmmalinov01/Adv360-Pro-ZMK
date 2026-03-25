@@ -25,7 +25,7 @@ Certain ZMK features (e.g. combos) require knowing the exact key positions in th
 
 ### Setup
 
-#### Software
+#### Software 
 
 * Either Podman or Docker is required, Podman is chosen if both are installed.
 * Make is also required
